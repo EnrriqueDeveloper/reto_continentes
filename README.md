@@ -9,3 +9,5 @@ Esta aplicación es una interfaz fácil de usar que permite a los usuarios explo
 - Routing para una navegación sin interrupciones entre las vistas de países y la barra de búsqueda.
 - Diseño responsivo logrado a través de una biblioteca o método adecuado.
 - API externo para obtener imágenes de países, ya que el API GraphQL provisto carece de esta funcionalidad.
+
+[![pedro.png](https://i.postimg.cc/xjPbcDdd/pedro.png)](https://postimg.cc/nMCLPWB8)
