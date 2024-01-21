@@ -11,3 +11,5 @@ Esta aplicación es una interfaz fácil de usar que permite a los usuarios explo
 - API externo para obtener imágenes de países, ya que el API GraphQL provisto carece de esta funcionalidad.
 
 [![pedro.png](https://i.postimg.cc/xjPbcDdd/pedro.png)](https://postimg.cc/nMCLPWB8)
+
+[![pedro2.png](https://i.postimg.cc/NjCntzXJ/pedro2.png)](https://postimg.cc/dhd6mn4r)
